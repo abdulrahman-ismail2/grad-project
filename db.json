@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "fname": "ahmed",
+      "lname": "no",
+      "email": "ahmed@mail.com",
+      "phone": "010010011111",
+      "password": "12345678",
+      "city": "",
+      "country": "",
+      "street": "",
+      "zCode": "",
+      "id": 1
+    },
+    {
+      "fname": "ada",
+      "lname": "",
+      "email": "ada@mail.com",
+      "phone": "01235667899",
+      "password": "23692369",
+      "city": "",
+      "country": "",
+      "street": "",
+      "zCode": "",
+      "id": 2
+    }
+  ]
+}

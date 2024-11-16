@@ -1,0 +1,76 @@
+{
+  "shops": [
+    {
+      "name": "DeltaMarket",
+      "phoneNumber": "01010953643",
+      "email": "Delta@gmail.com",
+      "country": "Egypt",
+      "city": "Shebeen El-kom",
+      "street": "street:Dobai",
+      "pictureUrl": "https://scontent.faly8-1.fna.fbcdn.net/v/t39.30808-6/327432846_1118931518798141_7964782132158405462_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=cg3DzDawcJEQ7kNvgHcLLrB&_nc_ht=scontent.faly8-1.fna&oh=00_AYDXrP8o715B9XIKPiNKEC4VY0AjMrEGsRf-fEswMo4PpA&oe=667B8B80",
+      "supermarketQuantities": null,
+      "reviews": null,
+      "id": 2
+    },
+    {
+      "name": "Al-Jilani",
+      "phoneNumber": "01098650013",
+      "email": "Al-Jilani@gmail.com",
+      "country": "Egypt",
+      "city": "Shebeen El-kom",
+      "street": "street:Paris",
+      "pictureUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtqhWOetBrIYZOaHXlD8Mf2ERj3ctn_ifNYg&s",
+      "supermarketQuantities": null,
+      "reviews": null,
+      "id": 3
+    },
+    {
+      "name": "Al-Othaim",
+      "phoneNumber": "01024313868",
+      "email": "Al-Othaim@gmail.com",
+      "country": "Egypt",
+      "city": "Shebeen El-kom",
+      "street": "street:Elgalaa",
+      "pictureUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUoEYKDtDy1OgAzj8SKMfR06PFcHJIu6WmSw&s",
+      "supermarketQuantities": null,
+      "reviews": null,
+      "id": 4
+    },
+    {
+      "name": "Marketo",
+      "phoneNumber": "01015941137",
+      "email": "Marketo@gmail.com",
+      "country": "Egypt",
+      "city": "Shebeen El-kom",
+      "street": "street:Sabri Abu Alam",
+      "pictureUrl": "https://photos.prnewswire.com/prnfull/20070917/AQM011LOGO",
+      "supermarketQuantities": null,
+      "reviews": null,
+      "id": 5
+    },
+    {
+      "name": "BIM",
+      "phoneNumber": "01010982745",
+      "email": "Bim@gmail.com",
+      "country": " Gamal Abdel Nasser",
+      "city": "Shebeen El-kom",
+      "street": "Egypt",
+      "pictureUrl": "https://images.deliveryhero.io/image/talabat/restaurants/BIM_Logo_Official_2019_pa638077560090885855.jpg?",
+      "supermarketQuantities": null,
+      "reviews": null,
+      "id": 6
+    },
+    {
+      "name": "Beit El Gomla",
+      "phoneNumber": "012206785972",
+      "email": "BeitElGomla@gmail.com",
+      "country": "Egypt",
+      "city": "Shebeen El-kom",
+      "street": " Gamal Abdel Nasser",
+      "pictureUrl": "https://images.deliveryhero.io/image/talabat/restaurants/logo_637604043236765794.jpg?",
+      "supermarketQuantities": null,
+      "reviews": null,
+      "id": 7
+    }
+  ]
+}

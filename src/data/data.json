@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "img": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=1999&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "name": "Product 1",
+      "desc": "This is the first product.",
+      "price": 29.99
+    },
+    {
+      "id": 2,
+      "img": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=1999&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "name": "Product 2",
+      "desc": "This is the second product.",
+      "price": 19.99
+    },
+    {
+      "id": 3,
+      "img": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=1999&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "name": "Product 3",
+      "desc": "This is the third product.",
+      "price": 49.99
+    },
+    {
+      "id": 4,
+      "img": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=1999&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "name": "Product 4",
+      "desc": "This is the fourth product.",
+      "price": 39.99
+    },
+    {
+      "id": 5,
+      "img": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=1999&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "name": "Product 5",
+      "desc": "This is the fifth product.",
+      "price": 24.99
+    },
+    {
+      "id": 6,
+      "img": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=1999&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "name": "Product 6",
+      "desc": "This is the sixth product.",
+      "price": 24.99
+    },
+    {
+      "id": 7,
+      "img": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=1999&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "name": "Product 7",
+      "desc": "This is the 7th product.",
+      "price": 24.99
+    },
+    {
+      "id":8,
+      "img": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=1999&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "name": "Product 8",
+      "desc": "This is the 8th product.",
+      "price": 24.99
+    },
+    {
+      "id":9,
+      "img": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=1999&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "name": "Product 9",
+      "desc": "This is the 9th product.",
+      "price": 24.99
+    }
+  ]
+}
